@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunityCatManager", "CommunityCatManager\CommunityCatManager.csproj", "{ADDBB5D3-2D5E-4E63-B6D9-1F123865DA30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADDBB5D3-2D5E-4E63-B6D9-1F123865DA30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDBB5D3-2D5E-4E63-B6D9-1F123865DA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDBB5D3-2D5E-4E63-B6D9-1F123865DA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDBB5D3-2D5E-4E63-B6D9-1F123865DA30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01F49749-7B9E-4C65-A4A9-2F3CD934A10D}
+	EndGlobalSection
+EndGlobal
